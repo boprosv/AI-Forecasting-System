@@ -80,3 +80,5 @@ Creates an interactive Plotly chart to display the forecast.
 Generates a downloadable CSV file with forecasted values.
 Provides a summary of key insights.
 
+![image alt](https://github.com/boprosv/AI-Forecasting-System/blob/main/Screenshot%202025-01-29%20121427.png?raw=true)
+
