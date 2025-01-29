@@ -1,4 +1,4 @@
-# AI-Forecasting-System
+# Multi-Agent AI-Forecasting-System
 Multi-Agent Workflow
 Imagine you have a smart AI assistant that helps you analyze sales trends, predict future demand, and provide interactive insights. This assistant isn’t just a single AI—it’s a multi-agent system where different AI components work together, just like a well-organized team.
 
