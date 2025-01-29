@@ -21,3 +21,19 @@ Generates an optimized SQL query to extract the required data.
 Runs the query and retrieves relevant historical sales.
 
 ![image alt](https://github.com/boprosv/AI-Forecasting-System/blob/main/Screenshot%202025-01-29%20110314.png?raw=true)
+
+Making Forecasts with XGBoost
+
+After retrieving data, the Forecasting Agent steps in. Instead of traditional statistical models (like ARIMA or Prophet), this system uses XGBoost Regressor—a powerful machine learning model for time-series forecasting.
+
+XGBoost works by:
+
+Training on past sales data to identify patterns.
+Learning from features like seasonality, trends, and external factors.
+Predicting future sales based on learned relationships.
+This method is highly effective because:
+
+It handles large datasets efficiently.
+It adjusts to complex patterns better than traditional forecasting models.
+It can incorporate additional features (e.g., holidays, promotions, weather, etc.).
+
