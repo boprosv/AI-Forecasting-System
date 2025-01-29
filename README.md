@@ -55,8 +55,28 @@ XGBoost Forecasting Agent → Uses machine learning to make predictions.
 Visualization Agent → Presents results clearly with interactive charts.
 Each agent plays a role, passing data from one stage to the next, ensuring a smooth and accurate forecasting experience.
 
-Example Scenario
+Example Scenario,
 Imagine you ask:
 "Group the products by bike.description road vs mountain and call this group id. Aggregate the sales by month in each group in id. Forecast the next 24 months for each group by id. When plotting, make sure to use the id as the unique id."
 
 ![image alt](https://github.com/boprosv/AI-Forecasting-System/blob/main/Screenshot%202025-01-29%20120707.png?raw=true)
+
+Here’s what happens:
+
+The Chat AI breaks down the request and identifies that:
+
+Past sales data needs to be retrieved.
+Forecasting is required.
+A visual report should be created.
+The SQL Agent generates and executes this SQL query
+The XGBoost Forecasting Agent takes the historical data and:
+
+Trains on the past sales trends.
+Learns from patterns like seasonality & growth rate.
+Predicts future sales for the next 12 months.
+The Visualization Agent then:
+
+Creates an interactive Plotly chart to display the forecast.
+Generates a downloadable CSV file with forecasted values.
+Provides a summary of key insights.
+
