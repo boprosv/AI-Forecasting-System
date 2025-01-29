@@ -37,3 +37,4 @@ It handles large datasets efficiently.
 It adjusts to complex patterns better than traditional forecasting models.
 It can incorporate additional features (e.g., holidays, promotions, weather, etc.).
 
+![image alt](https://github.com/boprosv/AI-Forecasting-System/blob/main/Screenshot%202025-01-29%20110526.png?raw=true)
