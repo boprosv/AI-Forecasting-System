@@ -79,6 +79,11 @@ The Visualization Agent then:
 Creates an interactive Plotly chart to display the forecast.
 Generates a downloadable CSV file with forecasted values.
 Provides a summary of key insights. And you can see generated SQL/Forcast/Plot code as well!
-
+![image alt](https://github.com/boprosv/AI-Forecasting-System/blob/main/Screenshot%202025-01-29%20121740.png?raw=true)
 ![image alt](https://github.com/boprosv/AI-Forecasting-System/blob/main/Screenshot%202025-01-29%20121427.png?raw=true)
 
+Why This Approach is Powerful
+XGBoost is More Accurate: Unlike traditional forecasting models, it effectively handles complex relationships and large datasets.
+AI Automates SQL & Forecasting: Users don’t need to spend a lot of time writing SQL or ML code—just ask a question, and the system does everything.
+Interactive Insights: Powerful yet easy-to-understand insights.
+The system can be adjusted, customized, and expanded to meet the company's needs.
