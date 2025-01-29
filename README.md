@@ -59,4 +59,4 @@ Example Scenario
 Imagine you ask:
 "Group the products by bike.description road vs mountain and call this group id. Aggregate the sales by month in each group in id. Forecast the next 24 months for each group by id. When plotting, make sure to use the id as the unique id."
 
-![image alt](https://github.com/boprosv/AI-Forecasting-System/blob/main/Screenshot%202025-01-29%20120043.png?raw=true)
+![image alt]([https://github.com/boprosv/AI-Forecasting-System/blob/main/Screenshot%202025-01-29%20120043.png?raw=true](https://github.com/boprosv/AI-Forecasting-System/blob/main/Screenshot%202025-01-29%20120707.png?raw=true))
