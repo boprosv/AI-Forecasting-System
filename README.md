@@ -20,7 +20,7 @@ Connects to the selected database (Walmart Sales or Bike Shop).
 Generates an optimized SQL query to extract the required data.
 Runs the query and retrieves relevant historical sales.
 
-![image alt](https://github.com/boprosv/AI-Forecasting-System/blob/main/Screenshot%202025-01-29%20110314.png?raw=true)
+![image alt]()
 
 Making Forecasts with XGBoost
 
