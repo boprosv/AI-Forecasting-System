@@ -10,7 +10,7 @@ The system follows a structured multi-agent workflow, where different AI compone
 
 Understanding the User’s Request
 
-![image alt]()
+![image alt](https://github.com/boprosv/AI-Forecasting-System/blob/main/Screenshot%202025-03-15%20164325.png?raw=true)
 
 When a user asks a question like "Forecast bike sales for the next 24 months," the Chat AI Agent first interprets the request.
 It determines that the user needs:
