@@ -19,7 +19,9 @@ A future forecast (e.g., using machine learning).
 A visualization (to present results clearly).
 Retrieving Data with the SQL Agent
 
-Once the request is understood, the SQL Agent:
+Once the request is understood, the SQL Agent generates code:
+
+![image alt]()
 
 Connects to the selected database (Walmart Sales or Bike Shop).
 Generates an optimized SQL query to extract the required data.
