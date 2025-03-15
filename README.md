@@ -76,7 +76,7 @@ The system can be adjusted, customized, and expanded to meet the company's needs
 
 I deployed an example on streamlit.app. If you have an OpenAI API Key,
 
-[Check out my AI Forecast App!]([https://your-app-link.com](https://ai-forecast-app.streamlit.app/))
+[Check out my AI Forecast App!](https://ai-forecast-app.streamlit.app/)
 
 ![image alt](https://github.com/boprosv/AI-Forecasting-System/blob/main/Screenshot%202025-03-15%20102255.png?raw=true)
 
