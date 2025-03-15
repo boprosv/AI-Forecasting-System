@@ -72,7 +72,11 @@ Why This Approach is Powerful
 XGBoost is More Accurate: Unlike traditional forecasting models, it effectively handles complex relationships and large datasets.
 AI Automates SQL & Forecasting: Users don’t need to spend a lot of time writing SQL or ML code—just ask a question, and the system does everything.
 Interactive Insights: Powerful yet easy-to-understand insights.
-The system can be adjusted, customized, and expanded to meet the company's needs. I deployed an example on streamlit.app. If you have an OpenAI API Key, you can try it out here...
+The system can be adjusted, customized, and expanded to meet the company's needs. 
+
+I deployed an example on streamlit.app. If you have an OpenAI API Key,
+
+[Check out my AI Forecast App!]([https://your-app-link.com](https://ai-forecast-app.streamlit.app/))
 
 ![image alt](https://github.com/boprosv/AI-Forecasting-System/blob/main/Screenshot%202025-03-15%20102255.png?raw=true)
 
