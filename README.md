@@ -58,7 +58,7 @@ And here is the fully interactive forecast chart:
 
 ![image alt](https://github.com/boprosv/AI-Forecasting-System/blob/main/Screenshot%202025-03-15%20171220.png?raw=true)
 
-![image alt](https://github.com/boprosv/AI-Forecasting-System/blob/main/Screenshot%202025-03-13%20155956.png?raw=true)
+![image alt](https://github.com/boprosv/AI-Forecasting-System/blob/main/Screenshot%202025-03-15%20171236.png?raw=true)
 
 In the next window you get a predicted outcome:
 
