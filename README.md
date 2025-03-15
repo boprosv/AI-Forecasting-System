@@ -2,6 +2,8 @@
 Multi-Agent Workflow
 Imagine you have a smart AI assistant that helps you analyze sales trends, predict future demand, and provide interactive insights. This assistant isn’t just a single AI—it’s a multi-agent system where different AI components work together, just like a well-organized team.
 
+![image alt]()
+
 How This AI Forecasting System Works
 The system follows a structured multi-agent workflow, where different AI components handle different tasks:
 
@@ -37,7 +39,7 @@ It handles large datasets efficiently.
 It adjusts to complex patterns better than traditional forecasting models.
 It can incorporate additional features (e.g., holidays, promotions, weather, etc.).
 
-![image alt](https://github.com/boprosv/AI-Forecasting-System/blob/main/Screenshot%202025-01-29%20110526.png?raw=true)
+![image alt]()
 
 Generating Insights & Visualizations
 
