@@ -66,7 +66,7 @@ In the next window you get a predicted outcome:
 
 You can inspect and download outcome:
 
-![image alt]()
+![image alt](https://github.com/boprosv/AI-Forecasting-System/blob/main/Screenshot%202025-03-13%20160106.png?raw=true)
 
 Why This Approach is Powerful
 XGBoost is More Accurate: Unlike traditional forecasting models, it effectively handles complex relationships and large datasets.
