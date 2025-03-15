@@ -62,6 +62,10 @@ And here is the fully interactive forecast chart:
 
 In the next window you get a predicted outcome:
 
+![image alt](https://github.com/boprosv/AI-Forecasting-System/blob/main/Screenshot%202025-03-13%20160049.png?raw=true)
+
+You can inspect and download outcome:
+
 ![image alt]()
 
 Why This Approach is Powerful
