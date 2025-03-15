@@ -12,7 +12,7 @@ Understanding the User’s Request
 
 ![image alt](https://github.com/boprosv/AI-Forecasting-System/blob/main/Screenshot%202025-03-15%20164325.png?raw=true)
 
-When a user asks a question like "Forecast bike sales for the next 24 months," the Chat AI Agent first interprets the request.
+When a user asks a question like "Aggregate the sales data by multiplying the bike unit price × the quantity and sum by day. Forecast the transactions by day for the next 365 days.," the Chat AI Agent first interprets the request.
 It determines that the user needs:
 Historical data (e.g., sales trends).
 A future forecast (e.g., using machine learning).
