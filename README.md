@@ -74,4 +74,6 @@ AI Automates SQL & Forecasting: Users don’t need to spend a lot of time writin
 Interactive Insights: Powerful yet easy-to-understand insights.
 The system can be adjusted, customized, and expanded to meet the company's needs. I deployed an example on streamlit.app. If you have an OpenAI API Key, you can try it out here...
 
-![image alt]()
+![image alt](https://github.com/boprosv/AI-Forecasting-System/blob/main/Screenshot%202025-03-15%20102255.png?raw=true)
+
+Just enter your Key and Please upload a CSV or Excel file or Use Demo Data "Walmart Sales".
