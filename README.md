@@ -2,12 +2,15 @@
 Multi-Agent Workflow
 Imagine you have a smart AI assistant that helps you analyze sales trends, predict future demand, and provide interactive insights. This assistant isn’t just a single AI—it’s a multi-agent system where different AI components work together, just like a well-organized team.
 
-![image alt]()
+![image alt](https://github.com/boprosv/AI-Forecasting-System/blob/main/Screenshot%202025-03-15%20101345.png?raw=true)
 
-How This AI Forecasting System Works
+How This AI Forecasting System Works:
+
 The system follows a structured multi-agent workflow, where different AI components handle different tasks:
 
 Understanding the User’s Request
+
+![image alt]()
 
 When a user asks a question like "Forecast bike sales for the next 24 months," the Chat AI Agent first interprets the request.
 It determines that the user needs:
