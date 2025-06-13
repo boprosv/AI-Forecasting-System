@@ -91,7 +91,7 @@ Return a Plotly figure JSON to be rendered in Streamlit.
 Output: Fully interactive Plotly chart with dropdowns for different time series.
 
 
-
+![image alt]()
 ![image alt](https://github.com/boprosv/AI-Forecasting-System/blob/main/Screenshot%202025-06-13%20114534.png?raw=true)
 ![image alt](https://github.com/boprosv/AI-Forecasting-System/blob/main/Screenshot%202025-06-13%20114336.png?raw=true)
 ![image alt](https://github.com/boprosv/AI-Forecasting-System/blob/main/Screenshot%202025-06-13%20114433.png?raw=true)
