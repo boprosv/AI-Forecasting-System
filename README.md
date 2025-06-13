@@ -109,4 +109,4 @@ If you have a valid API key, you can explore the app here:
 
 👉 [**Launch Forecasting App**](https://ai-forecast-app.streamlit.app/)
 
-Please be patient as Streamlit Community Cloud is a bit slow!:)
+🕒 Please be patient – Streamlit Community Cloud can be a bit slow sometimes! 😊
