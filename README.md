@@ -25,9 +25,10 @@ AI agents go to work:
 
 SQL Agent → Executes query
 
-Forecast Agent → Predicts values
+Forecast Agent → Predicts values (XGBoost Regressor)
 
-Chart Agent → Renders visuals
+Chart Agent → Renders visuals (Plotly)
 
 Results are returned as answers, tables, or charts inside the chat.
 
+![image alt]()
