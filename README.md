@@ -104,6 +104,9 @@ Just show tabular SQL results
 Or show SQL + forecast + interactive charts
 
 Everything runs asynchronously and modularly, making it scalable and customizable.
-The system is powered by GPT models, so if you have a valid Key, you can try and explore my system here!
+The system is powered by **OpenAI GPT models**.  
+If you have a valid API key, you can explore the app here:
+
+👉 [**Launch Forecasting App**](https://ai-forecast-app.streamlit.app/)
 
 
