@@ -6,7 +6,7 @@ The agent workflow in  AI Forecasting System is structured as a modular and dyna
 ![image alt](https://github.com/boprosv/AI-Forecasting-System/blob/main/Screenshot%202025-06-13%20111203.png?raw=true)
 
 
-![image alt]()
+![image alt](https://github.com/boprosv/AI-Forecasting-System/blob/main/Screenshot%202025-06-13%20114018.png?raw=true)
 
 Agent Workflow Overview
 The system is composed of four main agents:
