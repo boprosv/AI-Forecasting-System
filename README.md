@@ -105,8 +105,8 @@ Or show SQL + forecast + interactive charts
 
 Everything runs asynchronously and modularly, making it scalable and customizable.
 The system is powered by **OpenAI GPT models**.  
-If you have a valid API key, you can explore the app here:
+If you have a valid API key, you can explore the app here: 
 
 👉 [**Launch Forecasting App**](https://ai-forecast-app.streamlit.app/)
 
-
+Please be patient as Streamlit Community Cloud is a bit slow!:)
