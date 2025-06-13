@@ -95,3 +95,15 @@ Output: Fully interactive Plotly chart with dropdowns for different time series.
 ![image alt](https://github.com/boprosv/AI-Forecasting-System/blob/main/Screenshot%202025-06-13%20114534.png?raw=true)
 ![image alt](https://github.com/boprosv/AI-Forecasting-System/blob/main/Screenshot%202025-06-13%20114336.png?raw=true)
 ![image alt](https://github.com/boprosv/AI-Forecasting-System/blob/main/Screenshot%202025-06-13%20114433.png?raw=true)
+
+Final Output
+Depending on the user’s intent, the system will:
+
+Just show tabular SQL results
+
+Or show SQL + forecast + interactive charts
+
+Everything runs asynchronously and modularly, making it scalable and customizable.
+The system is powered by GPT models, so if you have a valid Key, you can try and explore my system here!
+
+
