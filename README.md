@@ -93,3 +93,5 @@ Output: Fully interactive Plotly chart with dropdowns for different time series.
 
 
 ![image alt](https://github.com/boprosv/AI-Forecasting-System/blob/main/Screenshot%202025-06-13%20114534.png?raw=true)
+![image alt]()
+![image alt]()
